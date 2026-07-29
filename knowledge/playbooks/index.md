@@ -1,3 +1,3 @@
 # Playbook
 
-* [Run prompt-injection-linter locally](run-locally.md) - How to start prompt-injection-linter on a dev machine.
+* [Run prompt-injection-linter locally](run-locally.md) - How to open prompt-injection-linter and run its tests on a dev machine.

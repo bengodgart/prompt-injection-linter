@@ -5,6 +5,7 @@ description: Paste text you are about to feed an AI agent (a prompt, a scraped w
 domain: AI & LLM Tooling
 users: Anyone feeding untrusted text - a scraped page, a tool output - into an AI agent.
 lifecycle: shipped
+live_url: https://bengodgart.github.io/prompt-injection-linter/
 pricing: Free.
 generated:
   by: claude-opus-5
